@@ -15,3 +15,7 @@ Unlike the first version of this project, we are now able to :
 Project visible [on this link](https://akubit.github.io/parcsetjardins)
 
 Older version of it available on [on this link](https://eukavlin.github.io/parcsetjardins)
+
+## [LINK TO GITHUB PAGES](https://akubit.github.io/parcsetjardins/)
+
+![Screenshot of Parcs et Jardins](./screenshot.png)
